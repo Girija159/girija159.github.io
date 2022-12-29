@@ -358,12 +358,17 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color:  #85a3e0;
   height: 100%;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
+}
+
+body
+{
+  background-color: #85a3e0;
 }
 
 .waves-effect.waves-blue .waves-ripple {
@@ -544,6 +549,7 @@ small {
   display: none;
 }
 
+
 .grey-text {
   color: #666 !important;
 }
@@ -551,7 +557,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color:  #2e5cb8 !important;
 }
 
 /* .teal-text {
@@ -561,7 +567,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #3366cc !important;
 }
 
 /* .teal {
